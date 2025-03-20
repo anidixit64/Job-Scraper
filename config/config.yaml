@@ -1,0 +1,41 @@
+# Job Scraper Configuration
+
+# Scraping Settings
+scraping:
+  working_hours:
+    start: 7  # 7 AM
+    end: 1    # 1 AM
+  check_interval: 60  # seconds
+  max_job_titles: 10
+  job_age_limit: 1  # hours
+
+# Job Matching Settings
+matching:
+  fuzzy_threshold: 85  # percentage
+  location_keywords:
+    - remote
+    - united states
+    - usa
+    - us
+
+# File Management
+files:
+  data_dir: data
+  jobs_dir: data/jobs
+  job_titles_file: data/job_titles.csv
+  log_dir: logs
+  file_retention_hours: 24
+
+# Logging
+logging:
+  level: INFO
+  format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+  max_file_size: 10485760  # 10MB
+  backup_count: 5
+
+# API Keys (should be moved to .env file in production)
+api_keys:
+  linkedin: ${LINKEDIN_API_KEY}
+  glassdoor: ${GLASSDOOR_API_KEY}
+  monster: ${MONSTER_API_KEY}
+  ziprecruiter: ${ZIPRECRUITER_API_KEY} 

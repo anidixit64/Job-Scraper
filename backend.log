@@ -1,0 +1,106 @@
+2025-03-20 17:54:26.937 python[82533:691320] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-20 17:54:26.937 python[82533:691320] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+2025-03-20 17:55:39,141 - JobScraper - INFO - Started scraping for titles: junior software engineer, software engineer I, junior software developer, junior data analyst, software developer I, new grad software engineer, entry level software engineer, new grad software developer, junior data analyst, software engineer
+2025-03-20 17:55:39,149 - JobScraper - INFO - Started scraping with titles: ['junior software engineer', 'software engineer I', 'junior software developer', 'junior data analyst', 'software developer I', 'new grad software engineer', 'entry level software engineer', 'new grad software developer', 'junior data analyst', 'software engineer']
+2025-03-20 17:55:39,221 - JobScraper - ERROR - Error scraping Welcome to the Jungle: 'NoneType' object has no attribute 'get'
+2025-03-20 17:55:39,221 - JobScraper - ERROR - Error scraping Simplify: 'NoneType' object has no attribute 'post'
+2025-03-20 17:55:39,449 - JobScraper - ERROR - Error fetching https://wellfound.com/jobs/search?q=junior+software+engineer&location=United%20States: Status 403
+2025-03-20 17:55:39,784 - JobScraper - ERROR - Error fetching https://www.ycombinator.com/jobs/search?q=junior+software+engineer&location=United%20States: Status 404
+2025-03-20 17:55:40,550 - JobScraper - ERROR - Error fetching https://www.dice.com/jobs/search?q=junior+software+engineer&location=United%20States: Status 404
+2025-03-20 17:55:40,596 - JobScraper - ERROR - Error fetching https://wellfound.com/jobs/search?q=software+engineer+I&location=United%20States: Status 403
+2025-03-20 17:55:40,737 - JobScraper - ERROR - Error fetching https://hiring.cafe/search?q=junior+software+engineer&location=United%20States: Status 429
+2025-03-20 17:55:41,008 - JobScraper - ERROR - Error fetching https://stackoverflow.com/jobs/jobs?q=junior+software+engineer&l=United+States: Status 403
+2025-03-20 17:55:41,149 - JobScraper - ERROR - Error fetching https://www.ycombinator.com/jobs/search?q=software+engineer+I&location=United%20States: Status 404
+2025-03-20 17:55:41,554 - JobScraper - ERROR - Error fetching https://www.glassdoor.com/Job/jobs.htm?sc.keyword=junior+software+engineer&locT=C&locId=1&jobType=all&fromAge=1: Status 403
+2025-03-20 17:55:41,558 - JobScraper - ERROR - Error fetching https://careers.github.com/positions/search?q=junior+software+engineer&location=United%20States: Cannot connect to host careers.github.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-03-20 17:55:41,748 - JobScraper - ERROR - Error fetching https://www.dice.com/jobs/search?q=software+engineer+I&location=United%20States: Status 404
+2025-03-20 17:55:41,768 - JobScraper - ERROR - Error fetching https://wellfound.com/jobs/search?q=junior+software+developer&location=United%20States: Status 403
+2025-03-20 17:55:41,852 - JobScraper - ERROR - Error fetching https://hiring.cafe/search?q=software+engineer+I&location=United%20States: Status 403
+2025-03-20 17:55:42,394 - JobScraper - ERROR - Error fetching https://stackoverflow.com/jobs/jobs?q=software+engineer+I&l=United+States: Status 403
+2025-03-20 17:55:42,541 - JobScraper - ERROR - Error fetching https://www.ycombinator.com/jobs/search?q=junior+software+developer&location=United%20States: Status 404
+2025-03-20 17:55:42,561 - JobScraper - ERROR - Error fetching https://careers.github.com/positions/search?q=software+engineer+I&location=United%20States: Cannot connect to host careers.github.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-03-20 17:55:42,638 - JobScraper - ERROR - Error fetching https://www.crunchbase.com/jobs/search?q=junior+software+engineer&location=United%20States: Status 403
+2025-03-20 17:55:42,997 - JobScraper - ERROR - Error fetching https://wellfound.com/jobs/search?q=junior+data+analyst&location=United%20States: Status 403
+2025-03-20 17:55:42,998 - JobScraper - ERROR - Error fetching https://www.dice.com/jobs/search?q=junior+software+developer&location=United%20States: Status 404
+2025-03-20 17:55:42,998 - JobScraper - ERROR - Error fetching https://hiring.cafe/search?q=junior+software+developer&location=United%20States: Status 403
+2025-03-20 17:55:43,570 - JobScraper - ERROR - Error fetching https://careers.github.com/positions/search?q=junior+software+developer&location=United%20States: Cannot connect to host careers.github.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-03-20 17:55:43,683 - JobScraper - ERROR - Error fetching https://stackoverflow.com/jobs/jobs?q=junior+software+developer&l=United+States: Status 403
+2025-03-20 17:55:43,749 - JobScraper - ERROR - Error fetching https://www.crunchbase.com/jobs/search?q=software+engineer+I&location=United%20States: Status 403
+2025-03-20 17:55:43,848 - JobScraper - ERROR - Error fetching https://venturefizz.com/jobs/search?q=junior+software+engineer&location=United%20States: Status 404
+2025-03-20 17:55:43,957 - JobScraper - ERROR - Error fetching https://www.ycombinator.com/jobs/search?q=junior+data+analyst&location=United%20States: Status 404
+2025-03-20 17:55:44,121 - JobScraper - ERROR - Error fetching https://hiring.cafe/search?q=junior+data+analyst&location=United%20States: Status 403
+2025-03-20 17:55:44,143 - JobScraper - ERROR - Error fetching https://wellfound.com/jobs/search?q=software+developer+I&location=United%20States: Status 403
+2025-03-20 17:55:44,197 - JobScraper - ERROR - Error fetching https://www.dice.com/jobs/search?q=junior+data+analyst&location=United%20States: Status 404
+2025-03-20 17:55:44,575 - JobScraper - ERROR - Error fetching https://careers.github.com/positions/search?q=junior+data+analyst&location=United%20States: Cannot connect to host careers.github.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-03-20 17:55:44,880 - JobScraper - ERROR - Error fetching https://www.crunchbase.com/jobs/search?q=junior+software+developer&location=United%20States: Status 403
+2025-03-20 17:55:44,901 - JobScraper - ERROR - Error fetching https://www.glassdoor.com/Job/jobs.htm?sc.keyword=software+engineer+I&locT=C&locId=1&jobType=all&fromAge=1: Status 403
+2025-03-20 17:55:45,029 - JobScraper - ERROR - Error fetching https://stackoverflow.com/jobs/jobs?q=junior+data+analyst&l=United+States: Status 403
+2025-03-20 17:55:45,261 - JobScraper - ERROR - Error fetching https://hiring.cafe/search?q=software+developer+I&location=United%20States: Status 403
+2025-03-20 17:55:45,329 - JobScraper - ERROR - Error fetching https://www.ycombinator.com/jobs/search?q=software+developer+I&location=United%20States: Status 404
+2025-03-20 17:55:45,353 - JobScraper - ERROR - Error fetching https://wellfound.com/jobs/search?q=new+grad+software+engineer&location=United%20States: Status 403
+2025-03-20 17:55:45,424 - JobScraper - ERROR - Error fetching https://www.dice.com/jobs/search?q=software+developer+I&location=United%20States: Status 404
+2025-03-20 17:55:45,561 - JobScraper - ERROR - Error fetching https://venturefizz.com/jobs/search?q=software+engineer+I&location=United%20States: Status 404
+2025-03-20 17:55:45,581 - JobScraper - ERROR - Error fetching https://careers.github.com/positions/search?q=software+developer+I&location=United%20States: Cannot connect to host careers.github.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-03-20 17:55:46,072 - JobScraper - ERROR - Error fetching https://www.crunchbase.com/jobs/search?q=junior+data+analyst&location=United%20States: Status 403
+2025-03-20 17:55:46,073 - JobScraper - ERROR - Error fetching https://www.glassdoor.com/Job/jobs.htm?sc.keyword=junior+software+developer&locT=C&locId=1&jobType=all&fromAge=1: Status 403
+2025-03-20 17:55:46,241 - JobScraper - ERROR - Error fetching https://techcrunch.com/jobs/search?q=junior+software+engineer&location=United%20States: Status 404
+2025-03-20 17:55:46,366 - JobScraper - ERROR - Error fetching https://hiring.cafe/search?q=new+grad+software+engineer&location=United%20States: Status 403
+2025-03-20 17:55:46,455 - JobScraper - ERROR - Error fetching https://stackoverflow.com/jobs/jobs?q=software+developer+I&l=United+States: Status 403
+2025-03-20 17:55:46,518 - JobScraper - ERROR - Error fetching https://wellfound.com/jobs/search?q=entry+level+software+engineer&location=United%20States: Status 403
+2025-03-20 17:55:46,744 - JobScraper - ERROR - Error fetching https://www.ycombinator.com/jobs/search?q=new+grad+software+engineer&location=United%20States: Status 404
+2025-03-20 17:55:46,747 - JobScraper - ERROR - Error fetching https://careers.github.com/positions/search?q=new+grad+software+engineer&location=United%20States: Cannot connect to host careers.github.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-03-20 17:55:46,845 - JobScraper - ERROR - Error fetching https://www.dice.com/jobs/search?q=new+grad+software+engineer&location=United%20States: Status 404
+2025-03-20 17:55:47,190 - JobScraper - ERROR - Error fetching https://www.crunchbase.com/jobs/search?q=software+developer+I&location=United%20States: Status 403
+2025-03-20 17:55:47,198 - JobScraper - ERROR - Error fetching https://www.glassdoor.com/Job/jobs.htm?sc.keyword=junior+data+analyst&locT=C&locId=1&jobType=all&fromAge=1: Status 403
+2025-03-20 17:55:47,384 - JobScraper - ERROR - Error fetching https://venturefizz.com/jobs/search?q=junior+software+developer&location=United%20States: Status 404
+2025-03-20 17:55:47,496 - JobScraper - ERROR - Error fetching https://hiring.cafe/search?q=entry+level+software+engineer&location=United%20States: Status 403
+2025-03-20 17:55:47,682 - JobScraper - ERROR - Error fetching https://wellfound.com/jobs/search?q=new+grad+software+developer&location=United%20States: Status 403
+2025-03-20 17:55:47,793 - JobScraper - ERROR - Error fetching https://careers.github.com/positions/search?q=entry+level+software+engineer&location=United%20States: Cannot connect to host careers.github.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-03-20 17:55:47,861 - JobScraper - ERROR - Error fetching https://stackoverflow.com/jobs/jobs?q=new+grad+software+engineer&l=United+States: Status 403
+2025-03-20 17:55:47,879 - JobScraper - ERROR - Error fetching https://techcrunch.com/jobs/search?q=software+engineer+I&location=United%20States: Status 404
+2025-03-20 17:55:48,002 - JobScraper - ERROR - Error fetching https://www.ycombinator.com/jobs/search?q=entry+level+software+engineer&location=United%20States: Status 404
+2025-03-20 17:55:48,058 - JobScraper - ERROR - Error fetching https://www.dice.com/jobs/search?q=entry+level+software+engineer&location=United%20States: Status 404
+2025-03-20 17:55:48,416 - JobScraper - ERROR - Error fetching https://www.crunchbase.com/jobs/search?q=new+grad+software+engineer&location=United%20States: Status 403
+2025-03-20 17:55:48,471 - JobScraper - ERROR - Error fetching https://www.glassdoor.com/Job/jobs.htm?sc.keyword=software+developer+I&locT=C&locId=1&jobType=all&fromAge=1: Status 403
+2025-03-20 17:55:48,606 - JobScraper - ERROR - Error fetching https://hiring.cafe/search?q=new+grad+software+developer&location=United%20States: Status 403
+2025-03-20 17:55:48,798 - JobScraper - ERROR - Error fetching https://careers.github.com/positions/search?q=new+grad+software+developer&location=United%20States: Cannot connect to host careers.github.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-03-20 17:55:48,816 - JobScraper - ERROR - Error fetching https://wellfound.com/jobs/search?q=junior+data+analyst&location=United%20States: Status 403
+2025-03-20 17:55:49,163 - JobScraper - ERROR - Error fetching https://venturefizz.com/jobs/search?q=junior+data+analyst&location=United%20States: Status 404
+2025-03-20 17:55:49,258 - JobScraper - ERROR - Error fetching https://stackoverflow.com/jobs/jobs?q=entry+level+software+engineer&l=United+States: Status 403
+2025-03-20 17:55:49,280 - JobScraper - ERROR - Error fetching https://www.dice.com/jobs/search?q=new+grad+software+developer&location=United%20States: Status 404
+2025-03-20 17:55:49,384 - JobScraper - ERROR - Error fetching https://www.ycombinator.com/jobs/search?q=new+grad+software+developer&location=United%20States: Status 404
+2025-03-20 17:55:49,516 - JobScraper - ERROR - Error fetching https://www.crunchbase.com/jobs/search?q=entry+level+software+engineer&location=United%20States: Status 403
+2025-03-20 17:55:49,587 - JobScraper - ERROR - Error fetching https://techcrunch.com/jobs/search?q=junior+software+developer&location=United%20States: Status 404
+2025-03-20 17:55:49,593 - JobScraper - ERROR - Error fetching https://www.glassdoor.com/Job/jobs.htm?sc.keyword=new+grad+software+engineer&locT=C&locId=1&jobType=all&fromAge=1: Status 403
+2025-03-20 17:55:49,859 - JobScraper - ERROR - Error fetching https://careers.github.com/positions/search?q=junior+data+analyst&location=United%20States: Cannot connect to host careers.github.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-03-20 17:55:49,914 - JobScraper - ERROR - Error fetching https://hiring.cafe/search?q=junior+data+analyst&location=United%20States: Status 403
+2025-03-20 17:55:50,010 - JobScraper - ERROR - Error fetching https://wellfound.com/jobs/search?q=software+engineer&location=United%20States: Status 403
+2025-03-20 17:55:50,502 - JobScraper - ERROR - Error fetching https://www.dice.com/jobs/search?q=junior+data+analyst&location=United%20States: Status 404
+2025-03-20 17:55:50,645 - JobScraper - ERROR - Error fetching https://stackoverflow.com/jobs/jobs?q=new+grad+software+developer&l=United+States: Status 403
+2025-03-20 17:55:50,663 - JobScraper - ERROR - Error fetching https://www.crunchbase.com/jobs/search?q=new+grad+software+developer&location=United%20States: Status 403
+2025-03-20 17:55:50,704 - JobScraper - ERROR - Error fetching https://www.glassdoor.com/Job/jobs.htm?sc.keyword=entry+level+software+engineer&locT=C&locId=1&jobType=all&fromAge=1: Status 403
+2025-03-20 17:55:50,806 - JobScraper - ERROR - Error fetching https://www.ycombinator.com/jobs/search?q=junior+data+analyst&location=United%20States: Status 404
+2025-03-20 17:55:50,864 - JobScraper - ERROR - Error fetching https://careers.github.com/positions/search?q=software+engineer&location=United%20States: Cannot connect to host careers.github.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-03-20 17:55:51,062 - JobScraper - ERROR - Error fetching https://hiring.cafe/search?q=software+engineer&location=United%20States: Status 403
+2025-03-20 17:55:51,389 - JobScraper - ERROR - Error fetching https://techcrunch.com/jobs/search?q=junior+data+analyst&location=United%20States: Status 404
+2025-03-20 17:55:51,389 - JobScraper - ERROR - Error fetching https://venturefizz.com/jobs/search?q=software+developer+I&location=United%20States: Status 404
+2025-03-20 17:55:51,773 - JobScraper - ERROR - Error fetching https://www.dice.com/jobs/search?q=software+engineer&location=United%20States: Status 404
+2025-03-20 17:55:51,781 - JobScraper - ERROR - Error fetching https://www.crunchbase.com/jobs/search?q=junior+data+analyst&location=United%20States: Status 403
+2025-03-20 17:55:51,830 - JobScraper - ERROR - Error fetching https://www.glassdoor.com/Job/jobs.htm?sc.keyword=new+grad+software+developer&locT=C&locId=1&jobType=all&fromAge=1: Status 403
+2025-03-20 17:55:51,960 - JobScraper - ERROR - Error fetching https://stackoverflow.com/jobs/jobs?q=junior+data+analyst&l=United+States: Status 403
+2025-03-20 17:55:52,033 - JobScraper - ERROR - Error fetching https://www.ycombinator.com/jobs/search?q=software+engineer&location=United%20States: Status 404
+2025-03-20 17:55:52,963 - JobScraper - ERROR - Error fetching https://techcrunch.com/jobs/search?q=software+developer+I&location=United%20States: Status 404
+2025-03-20 17:55:53,085 - JobScraper - ERROR - Error fetching https://www.crunchbase.com/jobs/search?q=software+engineer&location=United%20States: Status 403
+2025-03-20 17:55:53,085 - JobScraper - ERROR - Error fetching https://www.glassdoor.com/Job/jobs.htm?sc.keyword=junior+data+analyst&locT=C&locId=1&jobType=all&fromAge=1: Status 403
+2025-03-20 17:55:53,086 - JobScraper - ERROR - Error fetching https://venturefizz.com/jobs/search?q=new+grad+software+engineer&location=United%20States: Status 404
+2025-03-20 17:55:53,302 - JobScraper - ERROR - Error fetching https://stackoverflow.com/jobs/jobs?q=software+engineer&l=United+States: Status 403
+2025-03-20 17:55:54,222 - JobScraper - ERROR - Error fetching https://www.glassdoor.com/Job/jobs.htm?sc.keyword=software+engineer&locT=C&locId=1&jobType=all&fromAge=1: Status 403
+2025-03-20 17:55:54,821 - JobScraper - ERROR - Error fetching https://venturefizz.com/jobs/search?q=entry+level+software+engineer&location=United%20States: Status 404
+2025-03-20 17:55:55,176 - JobScraper - ERROR - Error fetching https://techcrunch.com/jobs/search?q=new+grad+software+engineer&location=United%20States: Status 404
+2025-03-20 17:55:56,634 - JobScraper - ERROR - Error fetching https://venturefizz.com/jobs/search?q=new+grad+software+developer&location=United%20States: Status 404
+2025-03-20 17:55:56,726 - JobScraper - ERROR - Error fetching https://techcrunch.com/jobs/search?q=entry+level+software+engineer&location=United%20States: Status 404
+2025-03-20 17:55:58,595 - JobScraper - ERROR - Error fetching https://techcrunch.com/jobs/search?q=new+grad+software+developer&location=United%20States: Status 404
+2025-03-20 17:55:58,623 - JobScraper - ERROR - Error fetching https://venturefizz.com/jobs/search?q=junior+data+analyst&location=United%20States: Status 404
+2025-03-20 17:55:59,919 - JobScraper - ERROR - Error fetching https://techcrunch.com/jobs/search?q=junior+data+analyst&location=United%20States: Status 404
+2025-03-20 17:56:00,672 - JobScraper - ERROR - Error fetching https://venturefizz.com/jobs/search?q=software+engineer&location=United%20States: Status 404
+2025-03-20 17:56:01,531 - JobScraper - ERROR - Error fetching https://techcrunch.com/jobs/search?q=software+engineer&location=United%20States: Status 404
