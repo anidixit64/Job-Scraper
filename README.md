@@ -40,16 +40,15 @@ A comprehensive job scraping tool that monitors multiple job sites for new oppor
 
 ## Job Sites Supported
 
-- LinkedIn (API)
-- Glassdoor
-- Monster
-- ZipRecruiter
 - BuiltIn
 - Google Jobs
 - Levels.fyi
 - Lever.co
-- Simplify
-- Welcome to the Jungle / Otta
+- VentureJobs
+- Crunchbase Jobs
+- etc.
+
+Due to API restrictions, the current functionality does not include some sites that require API keys, like LinkedIn or Glassdoor. 
 
 ## File Structure
 
